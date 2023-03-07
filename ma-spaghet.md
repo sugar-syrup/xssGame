@@ -20,4 +20,4 @@ To inject the script, set the parameter somebody to `<img src="hello.jpg" onerro
 
 ### This might be useful
 
-[About Params in JS](https://flaviocopes.com/urlsearchparams/)
+-[About Params in JS](https://flaviocopes.com/urlsearchparams/)
